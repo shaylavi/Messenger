@@ -1,4 +1,4 @@
-senger app
+Messenger app
 -------------
 
 This app Demonstrate the usage of ReactJS with Engine.IO for sockets and NodeJS as the server side.
